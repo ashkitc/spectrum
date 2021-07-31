@@ -14,7 +14,7 @@ NS_ASSUME_NONNULL_BEGIN
  * determined image format and size) as well as information about the applied
  * rule.
  */
-NS_SWIFT_NAME(Result)
+NS_SWIFT_NAME(FSPResult)
 @interface FSPResult : NSObject
 
 + (instancetype)new NS_UNAVAILABLE;

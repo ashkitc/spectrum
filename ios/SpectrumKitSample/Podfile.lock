@@ -59,7 +59,7 @@ DEPENDENCIES:
   - SpectrumKit (from `../../`)
 
 SPEC REPOS:
-  trunk:
+  https://cdn.cocoapods.org/:
     - libpng
     - libwebp
     - mozjpeg
@@ -81,4 +81,4 @@ SPEC CHECKSUMS:
 
 PODFILE CHECKSUM: a3355323527bc38784cfac19efa6537f855b6fa9
 
-COCOAPODS: 1.9.3
+COCOAPODS: 1.10.0
